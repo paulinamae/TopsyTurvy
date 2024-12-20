@@ -8,6 +8,7 @@ A player wins when the desired run length is reached.
 Makefile is configured to support **play.c**, the main executable. To play, run:
 
 **make play**
+
 **./play -h # -w # -r # (-m/-b)**
 
 * "-h #" refers to the desired height of the game board
